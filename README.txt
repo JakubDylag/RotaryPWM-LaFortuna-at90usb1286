@@ -23,9 +23,12 @@ USAGE
 
 INSTALL
 
-  After downloading, and unzipping file, you should install the following programs: GNU make, avr-gcc, dfu-programmer.
+  1. Downloading, and unzip files from:
+  	https://github.com/JakubDylag/RotaryPWM-LaFortuna-at90usb1286/
   
-  Run the following commands in the termnial to build and upload the program to the at90usb1286:
+  2. install the following programs: GNU make, avr-gcc, dfu-programmer.
+  
+  3. Run the following commands in the termnial to build and upload the program to the at90usb1286:
 	
 	make build
 	make upload
